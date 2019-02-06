@@ -1,0 +1,30 @@
+{
+  "name": "rectshot",
+  "version": "1.0.0",
+  "description": "A small nodejs utility to get a screenshot to buffer of a region on the desktop screen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiyria/rectshot.git"
+  },
+  "keywords": [
+    "pixel",
+    "color",
+    "desktop",
+    "screen",
+    "screenshot",
+    "rectshot"
+  ],
+  "author": "Kyle Kemp <kyle@seiyria.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seiyria/rectshot/issues"
+  },
+  "homepage": "https://github.com/seiyria/rectshot#readme",
+  "dependencies": {
+    "edge-js": "^11.3.0"
+  }
+}
