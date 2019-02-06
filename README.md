@@ -1,5 +1,5 @@
 # rectshot
-A small nodejs utility to get the color of a pixel on the desktop screen.
+A small nodejs utility to get a screenshot to buffer of a region on the desktop screen.
 
 ## Usage
 
